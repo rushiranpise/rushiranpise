@@ -14,10 +14,10 @@
 <br>
 <b>Skills :</b> <code>Python</code> | <code>C</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rushiranpise&include_all_commits=true&show_icons=true">
+<br><img src="https://github-readme-stats.vercel.app/api?username=rushiranpise&include_all_commits=true&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiranpise&layout=compact">
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiranpise&layout=compact">
 
-<img src="https://gpvc.arturio.dev/rushiranpise">
+<br>img src="https://gpvc.arturio.dev/rushiranpise">
 
 </div>
