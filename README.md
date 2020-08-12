@@ -11,13 +11,13 @@
 <code>I spend my free time on <a href="https://t.me/rushiranpise">Telegram</a>. 😇</code>
 
 <img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/coding.gif">
-
+<br>
 <b>Skills :</b> <code>Python</code> | <code>C</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
 
-<br><img src="https://github-readme-stats.vercel.app/api?username=rushiranpise&include_all_commits=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rushiranpise&include_all_commits=true&show_icons=true">
 
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiranpise&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiranpise&layout=compact">
 
-<br><img src="https://gpvc.arturio.dev/rushiranpise">
+<img src="https://gpvc.arturio.dev/rushiranpise">
 
 </div>
