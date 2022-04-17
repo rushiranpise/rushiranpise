@@ -15,7 +15,7 @@
 
 <br><b>Skills :</b> <code>Python</code> | <code>C</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
 
-<br><div><p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=rushiranpise&include_all_commits=true&show_icons=true&theme=react"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rushiranpise&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p></div>
+<br><div><p align="right"><nobr><img align="left" src="https://github-readme-stats.vercel.app/api?username=rushiranpise&include_all_commits=true&show_icons=true&theme=react"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rushiranpise&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</nobr></p></div>
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=rushiranpise&theme=react-dark">  
 </div>
