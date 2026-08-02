@@ -9,7 +9,7 @@
 <code>I like learn new things. ❤</code>
 <code>DBZ lover. 😉</code>
 
-<code>I spend my free time on <a href="https://t.me/rushiranpise">Telegram</a>. 😇</code>
+<code>I spend my free time on <a href="https://t.me/rushi_ranpise">Telegram</a>. 😇</code>
 
 <br><img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/coding.gif">
 
