@@ -1,25 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rushi%20Ranpise&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!-- <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=rushrianpise">
-    <img src="https://komarev.com/ghpvc/?username=rushrianpise&label=Profile%20views&color=00FFFF&style=flat-square" alt="rushrianpise's profile views" />
-  </a>
-</p> -->
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/rushrianpise">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rushrianpise&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rushrianpise's GitHub Stats" />
+  <a href="https://github.com/rushiranpise">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rushiranpise&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rushiranpise's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=rushrianpise&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="rushrianpise's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rushiranpise&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="rushiranpise's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rushrianpise&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rushi Ranpise's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rushrianpise&theme=tokyonight&radius=10" alt="rushrianpise's Activity Graph" />
+  <img src="https://trophy.ryglcloud.net/?username=rushiranpise&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rushi Ranpise's GitHub Trophies" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
@@ -100,8 +91,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rushrianpise">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rushrianpise&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/rushiranpise">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rushiranpise&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
